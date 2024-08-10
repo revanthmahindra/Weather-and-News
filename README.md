@@ -3,6 +3,9 @@
 
 This project is a simple web application that allows users to fetch the current weather and top news articles for a specified city. It uses the OpenWeatherMap API to get weather data and the GNews API to fetch news articles.
 
+## Deployment
+The website is deployed and can be accessed [here][(https://revanthmahindra.github.io/Weather-and-News/)].
+
 ## Features
 
 - Fetches and displays current weather information for a specified city.
